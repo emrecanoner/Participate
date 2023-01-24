@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414842929644",
+    "project_id": "participate-9a810",
+    "storage_bucket": "participate-9a810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414842929644:android:a4cd7ef0d3d40f33b8c0c9",
+        "android_client_info": {
+          "package_name": "com.example.participate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414842929644-0sb2ajf17r8vpg9r797v2t3sk8cngnbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCms58z6R-7Tx6xyonnu1-EYoo5ISCLK68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414842929644-0sb2ajf17r8vpg9r797v2t3sk8cngnbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
